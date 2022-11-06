@@ -1,0 +1,1 @@
+https://pyecharts.readthedocs.io/projects/pyecharts-en/zh/latest/en-us/prepare/
